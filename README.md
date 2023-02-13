@@ -1,1 +1,1 @@
-# webcv
+# https://bizhluzdy.github.io/webcv/cv
