@@ -45,7 +45,7 @@ I strive to be better, learn faster, because working as a programmer is the deve
 
 ### Education:  
 * Institutions of education:
-    * **Branch of the Belarusian National Technical University «Minsk State Mechanical-Engineering College» (2017-2021)** - *As a ***technology engineer*** work with SolidCAM, AutoCAD, KOMPAS3D, Google Docs and MS Office, writing programs for CNC machines, development of technical processes* 
+    * **Branch of the Belarusian National Technical University «Minsk State Mechanical-Engineering College» (2017-2021)** - *As a **technology engineer** work with SolidCAM, AutoCAD, KOMPAS3D, Google Docs and MS Office, writing programs for CNC machines, development of technical processes* 
 * Courses:
     * **Code Basic & HTML Academy (2022)** - *learning to basic of HTML, CSS and JS*;
     * **The Rolling Scopes School (2022-2023)** - *learning to work with GIT, GITHUB, Chrome Dev Tools, VS Code, Figma, HMTL, CSS, JavaScript, Codewars, algorithmic tasks, webpack, Sass & SCSS, basic of Node.js, basic of TypeScript and React*;
