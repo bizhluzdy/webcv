@@ -7,7 +7,7 @@
 * Phone: +48571909789
 * E-mail: murdrum22@gmail.com
 * [Github](https://github.com/bizhluzdy)
-* [Codewars](https://www.codewars.com/users/rsschool_2af18734ac9d1db3)
+* [Codewars](https://www.codewars.com/users/rsschool_2af18734ac9d1db3) https://www.codewars.com/users/rsschool_2af18734ac9d1db3/badges/micro
 * [Linkedin](https://www.linkedin.com/in/myukhnovich/)
 
 ----
